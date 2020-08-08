@@ -1,0 +1,2 @@
+# EditTextWithFunction
+Demo多種EditText的使用方法
